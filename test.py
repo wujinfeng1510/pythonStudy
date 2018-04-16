@@ -1,3 +1,4 @@
+#git control
 # from jeff_function import trim 
 # from jeff_function import testTrim
 # testTrim()
