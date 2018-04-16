@@ -1,3 +1,4 @@
+# study python function
 def trim(strIn):
     ''' trim used delete space at the beginning and at the end of str 
     用来删除字符串开始和结尾的空格'''
